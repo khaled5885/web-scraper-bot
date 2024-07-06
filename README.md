@@ -1,4 +1,4 @@
-Web Scraper Bot with Selenium
+# Web Scraper Bot with Selenium
 Overview
 This project implements a web scraper bot using Selenium, a powerful tool for automating web browser interactions. The bot navigates through web pages, extracts desired information, and saves it for further analysis or processing.
 
